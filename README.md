@@ -7,8 +7,13 @@ Foobar is a Python library for dealing with word pluralization.
 ```bash
 python -m venv venv 
 
+Windows
 .\venv\Scripts\Activate.ps1
 
+Linux or Mac
+source venv/bin/activate
+
+After Activated
 pip install -r requirements.txt
 ```
 
