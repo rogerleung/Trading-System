@@ -1,4 +1,3 @@
-venv/
-testing_Notebooks/
-.vscode/
-.vscode
+venv/*
+testing_Notebooks/*
+.vscode/*
