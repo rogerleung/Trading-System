@@ -1,6 +1,6 @@
-# Foobar
+# Trading-System
 
-Foobar is a Python library for dealing with word pluralization.
+Trading-System is a folder to practice various trading strategy with python.
 
 # set up environment
 
